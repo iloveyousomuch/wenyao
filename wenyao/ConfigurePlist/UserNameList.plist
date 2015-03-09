@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>自己</string>
+	<string>儿子</string>
+	<string>女儿</string>
+	<string>老公</string>
+	<string>老婆</string>
+	<string>爸爸</string>
+	<string>妈妈</string>
+	<string>孙子</string>
+	<string>孙女</string>
+	<string>爷爷</string>
+	<string>奶奶</string>
+	<string>不限</string>
+	<string>自定义</string>
+</array>
+</plist>

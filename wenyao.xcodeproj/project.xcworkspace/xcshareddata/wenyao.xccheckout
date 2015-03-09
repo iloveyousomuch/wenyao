@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>630ABBA1-9AE0-4866-9B42-2A782838A132</string>
+	<key>IDESourceControlProjectName</key>
+	<string>wenyao</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>072a1dac-eb1d-446a-8ecb-06265a0c3655++823</key>
+		<string>http://svn.qw.com/v2/platform/code/ios/branches/v2.1.1</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>wenyao/wenyao.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>072a1dac-eb1d-446a-8ecb-06265a0c3655++823</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>072a1dac-eb1d-446a-8ecb-06265a0c3655++823</key>
+		<string>http://svn.qw.com/v2/platform</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://svn.qw.com/v2/platform/code/ios/branches/v2.1.1/wenyao/wenyao.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>072a1dac-eb1d-446a-8ecb-06265a0c3655++823</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>072a1dac-eb1d-446a-8ecb-06265a0c3655++823</string>
+			<key>IDESourceControlWCCName</key>
+			<string>v2.1.1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

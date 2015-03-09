@@ -1,0 +1,28 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "scale" : "1x",
+      "filename" : "funcIntor3_3inch.PNG"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "filename" : "funcIntor3_3inch@2x.PNG"
+    },
+    {
+      "idiom" : "iphone",
+      "filename" : "funcIntor3_4inch@2x.PNG",
+      "subtype" : "retina4",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
