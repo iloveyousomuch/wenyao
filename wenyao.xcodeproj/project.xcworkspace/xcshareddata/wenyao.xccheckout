@@ -12,17 +12,23 @@
 	<dict>
 		<key>072a1dac-eb1d-446a-8ecb-06265a0c3655++823</key>
 		<string>http://svn.qw.com/v2/platform/code/ios/branches/v2.1.1</string>
+		<key>7E4A1C967B0D95F7EE2DBA7DE0A63F2E026C9F0E</key>
+		<string>https://github.com/iloveyousomuch/wenyao.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>wenyao/wenyao.xcodeproj</string>
+	<string>wenyao.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>072a1dac-eb1d-446a-8ecb-06265a0c3655++823</key>
 		<string>../../..</string>
+		<key>7E4A1C967B0D95F7EE2DBA7DE0A63F2E026C9F0E</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectRepositoryRootDictionary</key>
 	<dict>
 		<key>072a1dac-eb1d-446a-8ecb-06265a0c3655++823</key>
+		<string>http://svn.qw.com/v2/platform</string>
+		<key>7E4A1C967B0D95F7EE2DBA7DE0A63F2E026C9F0E</key>
 		<string>http://svn.qw.com/v2/platform</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -30,7 +36,7 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>072a1dac-eb1d-446a-8ecb-06265a0c3655++823</string>
+	<string>7E4A1C967B0D95F7EE2DBA7DE0A63F2E026C9F0E</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -39,7 +45,23 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>072a1dac-eb1d-446a-8ecb-06265a0c3655++823</string>
 			<key>IDESourceControlWCCName</key>
-			<string>v2.1.1</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7E4A1C967B0D95F7EE2DBA7DE0A63F2E026C9F0E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>wenyao</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7E4A1C967B0D95F7EE2DBA7DE0A63F2E026C9F0E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>wenyao</string>
 		</dict>
 	</array>
 </dict>

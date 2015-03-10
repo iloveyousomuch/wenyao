@@ -157,7 +157,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="snR-BM-hU3" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="37" y="265"/>
+            <point key="canvasLocation" x="-3" y="225"/>
         </scene>
         <!--Cimmit Person Success View Controller-->
         <scene sceneID="YoT-H4-Zjd">
@@ -203,7 +203,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="CPf-sS-wHe" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="395" y="271"/>
+            <point key="canvasLocation" x="351" y="235"/>
         </scene>
     </scenes>
 </document>

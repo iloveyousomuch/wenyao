@@ -35,13 +35,17 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
     self.title = @"列表";
+    
     [self setupTableView];
     
     if (!app.logStatus) {
+        
         [SVProgressHUD showErrorWithStatus:@"尚未登录" duration:0.8];
+        
     }
-
+    
 }
 
 - (void)setupTableView
